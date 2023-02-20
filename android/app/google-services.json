@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69276650595",
+    "project_id": "smart-calendar-c80d8",
+    "storage_bucket": "smart-calendar-c80d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69276650595:android:de4f6192547e0d10387c56",
+        "android_client_info": {
+          "package_name": "abuzaidabdeen.com.smart_calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69276650595-4usv0sd1gen3rk422igekbh019ioed2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "abuzaidabdeen.com.smart_calendar",
+            "certificate_hash": "abdf1438d4d3dff61f80d6a3cbce19dd434fdee4"
+          }
+        },
+        {
+          "client_id": "69276650595-trmrj1477vfmqd7iv737nf3tk4d7i0jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQIPVcJ7-bumcjR1slTNTAjg5NZmn52-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69276650595-trmrj1477vfmqd7iv737nf3tk4d7i0jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
